@@ -1,0 +1,4 @@
+1. Review and consolidate Lesson2 from Student Guide.
+2. Read/Familiarize Lesson3 from Student Guide for next training session.
+3. Do the Practice2(for Lesson2) from Activity Guide.
+3. Practice git (de modificat note.txt si de facut push) https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
