@@ -1,0 +1,9 @@
+select distinct salary
+,email
+from employees
+select first_name
+,salary, salary * 1.1, 
+from employees
+select *
+from employees
+describe employees
