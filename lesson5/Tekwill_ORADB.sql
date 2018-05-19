@@ -37,6 +37,11 @@ FROM  EMPLOYEES
 DESCRIBE EMPLOYEES
 
 
+Primul select reusit
+select  first_name || ' ' || last_name ||' Works as =' Employees ,job_id Position ,salary as "Salary Monthly"   , salary*12 "Salary Yearly"
+from employees
+
+
 
 
 
