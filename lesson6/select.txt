@@ -1,0 +1,49 @@
+select employee_id
+,salary*1.1 AS "salary encrease"
+,salary*1.1 AS salary_encrease 
+,salary*10 anaual_salary
+,first_name 
+,last_name
+FROM employees
+select  first_name || ' ' || last_name ||' Works as ' Employees ,job_id Position ,salary as "Salary Monthly"   , salary*12 "Salary Yearly"
+from employees
+SELECT max (employee_id)
+FROM employees
+
+-- 
+
+
+SELECT first_name|| last_name ||'@gmail.com' "User Email"
+FROM Employees
+
+select DISTINCT faculty_id
+FROM ad_faculty_course_details
+select DISTINCT faculty_id
+FROM ad_faculty_course_details
+describe ad_faculty_course_details
+desc all employees
+
+
+
+SELECT*
+FROM employees
+WHERE hire_date='17.06.11'
+describe employees
+select sysdate from dual
+ select last_name, salary
+ from employees
+ where salary BETWEEN 3000 AND  9000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
